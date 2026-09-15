@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price
+1,Wireless Mouse,Electronics,165.27
+2,Mechanical Keyboard,Electronics,174.02
+3,27in Monitor,Electronics,66.38
+4,USB-C Hub,Electronics,143.06
+5,Bluetooth Speaker,Electronics,204.37
+6,Webcam HD,Electronics,94.1
+7,Laptop Stand,Electronics,204.68
+8,Power Bank,Electronics,144.73
+9,Office Chair,Furniture,56.5
+10,Standing Desk,Furniture,76.36
+11,Bookshelf,Furniture,115.42
+12,Filing Cabinet,Furniture,101.61
+13,Desk Lamp,Furniture,270.4
+14,Monitor Arm,Furniture,122.46
+15,Notebook Pack,Stationery,22.16
+16,Sticky Notes,Stationery,12.55
+17,Gel Pens,Stationery,15.45
+18,Whiteboard,Stationery,13.72
+19,Binder Set,Stationery,20.22
+20,Highlighter Pack,Stationery,14.17
+21,Cotton T-Shirt,Apparel,35.92
+22,Hoodie,Apparel,31.59
+23,Cap,Apparel,17.29
+24,Backpack,Apparel,39.67
+25,Water Bottle,Apparel,35.58
+26,Coffee Maker,Home & Kitchen,128.12
+27,Blender,Home & Kitchen,31.13
+28,Air Fryer,Home & Kitchen,36.69
+29,Cutlery Set,Home & Kitchen,75.01
+30,Storage Boxes,Home & Kitchen,60.52
